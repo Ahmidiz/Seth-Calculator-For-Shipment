@@ -8,7 +8,7 @@ public class Main {
 	// Create a Scanner object
         Scanner input = new Scanner(System.in);
         // Prompt the user to enter a number for weight
-        System.out.print("Enter a whole number for weight");
+        System.out.print("Enter a number for weight");
         double weight = input.nextDouble();
 
         if (weight <3)
